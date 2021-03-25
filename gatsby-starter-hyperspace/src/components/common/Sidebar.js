@@ -10,7 +10,6 @@ const Sidebar = () => {
     { content: 'Professional Work Experience', href: 'jobs' },
     { content: 'Projects + Research', href: 'two' },
     { content: 'Programming Skills', href: 'programming' },
-    { content: 'Sculpture', href: 'sculptures' },
     { content: 'Get in touch', href: 'three' }
 
   ]);
