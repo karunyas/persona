@@ -9,7 +9,6 @@ import Features     from '../components/features/Features';
 import Jobs         from '../components/jobs/Jobs';
 import Capabilities from '../components/capabilities/Capabilities';
 import Programming  from '../components/programming/Programming';
-import Sculpture  from '../components/sculpture/SculptureGallery.js';
 import Contact      from '../components/contact/Contact';
 
 const IndexPage = () =>
@@ -22,7 +21,6 @@ const IndexPage = () =>
       <Jobs />
       <Capabilities />
       <Programming />
-      <Sculpture />
       <Contact />
     </div>
 
